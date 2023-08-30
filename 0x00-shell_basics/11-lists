@@ -1,3 +1,3 @@
 #!/bin/bas
-ls -la /boot
+ls -na /boot
 
